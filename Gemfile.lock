@@ -120,7 +120,7 @@ GEM
       rack
     rack-test (0.6.1)
       rack (>= 1.0)
-    rails (3.2.6)
+    rails (3.2.11)
       actionmailer (= 3.2.6)
       actionpack (= 3.2.6)
       activerecord (= 3.2.6)
@@ -207,7 +207,7 @@ DEPENDENCIES
   jquery-datatables-rails (>= 1.10.0)
   jquery-rails
   launchy (>= 2.1.0)
-  rails (= 3.2.6)
+  rails (= 3.2.11)
   rolify (>= 3.1.0)
   rspec-rails (>= 2.10.1)
   sass-rails (~> 3.2.3)
